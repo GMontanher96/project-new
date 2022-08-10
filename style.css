@@ -1,44 +1,12 @@
-/* css do h2 e h3 */
-
 h2 {
-    float: center;
+    font-size: 15pt;
 }
-h3 {
-    float: center;
-}
-hgroup {
-    margin-bottom: 100px;
+h3{
+    font-size: 13pt;
 }
 
-.esc {
-    color: #FF8C00;
-    font-size: 7vh;
-    font-family: Arial, Helvetica, sans-serif;
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
 }
-.title {
-    color: #00008B;
-    font-size: 7vh;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.titleNet {
-    color: #FF8C00;
-    font-size: 5vh;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.subtitle {
-    margin-top: 0px;
-    color: #808080;
-    font-size: 3vh;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-
-.container img {
-    max-width: 500px;
-    max-height: 450px;
-    width: auto;
-    height: auto;
-}
-
